@@ -52,10 +52,10 @@ update_submodule() {
         return 1
     fi
     
-    # Pull latest changes
-    log_info "  Pulling latest changes..."
-    if ! git pull origin main --quiet 2>/dev/null; then
-        log_error "  Failed to pull changes for $submodule_name"
+    # Pull latest changes (reset to match remote)
+    log_info "  Resetting to remote main branch..."
+    if ! git reset --hard origin/main --quiet 2>/dev/null; then
+        log_error "  Failed to reset to origin/main for $submodule_name"
         return 1
     fi
     
