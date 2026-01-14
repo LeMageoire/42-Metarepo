@@ -49,3 +49,6 @@
 [submodule "projects/commoncore/level5/cpp_module/cpp_09"]
 	path = projects/commoncore/level5/cpp_module/cpp_09
 	url = https://github.com/LeMageoire/42_Cpp09
+[submodule "projects/commoncore/level4/cub3d"]
+	path = projects/commoncore/level4/cub3d
+	url = https://github.com/LeMageoire/42_cube3D
