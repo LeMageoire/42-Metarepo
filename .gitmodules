@@ -1,0 +1,48 @@
+[submodule "projects/piscine/piscine"]
+	path = projects/piscine/piscine
+	url = https://github.com/LeMageoire/42-Piscine
+[submodule "projects/commoncore/level1/ft_printf"]
+	path = projects/commoncore/level1/ft_printf
+	url = https://github.com/LeMageoire/42-FTPRINTF
+[submodule "projects/commoncore/level1/get_next_line"]
+	path = projects/commoncore/level1/get_next_line
+	url = https://github.com/LeMageoire/42-GetNextLine
+[submodule "projects/commoncore/level0/libft"]
+	path = projects/commoncore/level0/libft
+	url = https://github.com/LeMageoire/42-Libft
+[submodule "projects/commoncore/level2/pipex"]
+	path = projects/commoncore/level2/pipex
+	url = https://github.com/LeMageoire/42-Pipex
+[submodule "projects/commoncore/level2/so_long"]
+	path = projects/commoncore/level2/so_long
+	url = https://github.com/LeMageoire/42_soLong
+[submodule "projects/commoncore/level2/push_swap"]
+	path = projects/commoncore/level2/push_swap
+	url = https://github.com/LeMageoire/42-push_swap
+[submodule "projects/commoncore/level3/philosophers"]
+	path = projects/commoncore/level3/philosophers
+	url = https://github.com/LeMageoire/42-philosophers
+[submodule "projects/commoncore/level4/cpp_module/cpp_03"]
+	path = projects/commoncore/level4/cpp_module/cpp_03
+	url = https://github.com/LeMageoire/42_Cpp03
+[submodule "projects/commoncore/level4/cpp_module/cpp_04"]
+	path = projects/commoncore/level4/cpp_module/cpp_04
+	url = https://github.com/LeMageoire/42_Cpp04
+[submodule "projects/commoncore/level3/minishell"]
+	path = projects/commoncore/level3/minishell
+	url = https://github.com/LeMageoire/42_Minishell
+[submodule "projects/commoncore/level5/webserv"]
+	path = projects/commoncore/level5/webserv
+	url = https://github.com/LeMageoire/42_Webserv
+[submodule "projects/specialty/learn2slither"]
+	path = projects/specialty/learn2slither
+	url = https://github.com/LeMageoire/42_PTC_Learn2Slither
+[submodule "projects/commoncore/level5/inception"]
+	path = projects/commoncore/level5/inception
+	url = https://github.com/LeMageoire/42_Inception
+[submodule "projects/specialty/ft_ls"]
+	path = projects/specialty/ft_ls
+	url = https://github.com/LeMageoire/ft_ls
+[submodule "projects/commoncore/level6/ft_transcendance"]
+	path = projects/commoncore/level6/ft_transcendance
+	url = https://github.com/LeMageoire/transcendance
